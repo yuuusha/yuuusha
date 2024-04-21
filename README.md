@@ -9,8 +9,6 @@
 - Kafka
 - Liquibase
 - Jira, Confluence
-
-#### Java:
 - Spring (Core, Web, DAO, ORM, Boot, REST)
 - JUnit, Mockito
 
