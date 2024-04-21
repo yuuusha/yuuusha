@@ -11,7 +11,7 @@
 - Jira, Confluence
 - Spring (Core, Web, DAO, ORM, Boot, REST)
 - JUnit, Mockito
-
+---
 #### Python:
 - numpy, scipy
 - pandas
@@ -19,16 +19,16 @@
 - sklearn
 - gensim
 - nltk
-
+---
 #### Languages:
 - English - C1 Advanced
 - Russian - C2 Native Speaker
-
+---
 #### Projects:
 - [LinkTracker (Github/StackOverFlow) Java](https://github.com/yuuusha/java-course-2023-backend)
 - [Tinkoff course 1 sem Java](https://github.com/yuuusha/java-course-2023)
 - [Topic Modeling (Coursework)](https://github.com/yuuusha/topic-modeling)
-
+---
 #### Contacts:
 - Telegram: [@yuuusha0](https://t.me/yuuusha0)
 <!--
