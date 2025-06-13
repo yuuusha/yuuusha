@@ -1,6 +1,25 @@
 ### Hi there, I'm Ilya! 👋
 ---
-#### Skills:
+Меня зовут Илья, я начинающий разработчик!
+
+Я развиваюсь в области Data Science и Machine Learning, в том числе люблю делать научные исследования и полезные прикладные работы.
+
+Ранее занимался Java Backend Development, но позднее перешел к тому, что нравится больше - Data Science!
+---
+#### Python:
+- numpy, scipy
+- pandas
+- matplotlib, seaborn, plotly
+- sklearn
+- gensim
+- nltk
+- pytorch
+- TensorFlow
+- NLP
+- jupyter notebook
+- maths & statistics
+---
+#### Another skills:
 - Java, Python
 - Git, Docker, Kubernetes, Linux
 - PostgreSQL, MSSQL
@@ -11,14 +30,6 @@
 - Jira, Confluence
 - Spring (Core, Web, DAO, ORM, Boot, REST)
 - JUnit, Mockito
----
-#### Python:
-- numpy, scipy
-- pandas
-- matplotlib, seaborn, plotly
-- sklearn
-- gensim
-- nltk
 ---
 #### Languages:
 - English - C1 Advanced
@@ -31,17 +42,4 @@
 ---
 #### Contacts:
 - Telegram: [@yuuusha0](https://t.me/yuuusha0)
-<!--
-**AndrewSalygin/AndrewSalygin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
- ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: jojomemes@yandex.ru
