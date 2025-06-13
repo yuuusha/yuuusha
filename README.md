@@ -5,6 +5,7 @@
 Я развиваюсь в области Data Science и Machine Learning, в том числе люблю делать научные исследования и полезные прикладные работы.
 
 Ранее занимался Java Backend Development, но позднее перешел к тому, что нравится больше - Data Science!
+
 ---
 #### Python:
 - numpy, scipy
