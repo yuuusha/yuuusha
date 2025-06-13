@@ -40,6 +40,10 @@
 - [LinkTracker (Github/StackOverFlow) Java](https://github.com/yuuusha/java-course-2023-backend)
 - [Tinkoff course 1 sem Java](https://github.com/yuuusha/java-course-2023)
 - [Topic Modeling (Coursework)](https://github.com/yuuusha/topic-modeling)
+- [Music Catalog (C#)](https://github.com/yuuusha/MusicCatalog)
+- [CRM Flower Market (C#)](https://github.com/yuuusha/CRM-Flower-Market)
+- [Real Time System Tasks](https://github.com/yuuusha/rts-spring-2025)
+- [University Tasks | Университетские задания за весь период обучения](https://github.com/yuuusha/university_tasks)
 ---
 #### Contacts:
 - Telegram: [@yuuusha0](https://t.me/yuuusha0)
