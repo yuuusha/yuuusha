@@ -20,6 +20,12 @@
 - jupyter notebook
 - maths & statistics
 ---
+#### Data Science Projects:
+- [Topic Modeling (coursework)](https://github.com/yuuusha/topic-modeling)
+- [Topic book recommendation system (coursework)](https://github.com/yuuusha/topic-recommendation-system)
+- [Morse audio decoder](https://github.com/yuuusha/morse-decoder)
+- [Genome assembler](https://github.com/yuuusha/genome-assembler)
+---
 #### Another skills:
 - Java, Python
 - Git, Docker, Kubernetes, Linux
@@ -32,18 +38,17 @@
 - Spring (Core, Web, DAO, ORM, Boot, REST)
 - JUnit, Mockito
 ---
-#### Languages:
-- English - C1 Advanced
-- Russian - C2 Native Speaker
----
-#### Projects:
+#### Another projects:
 - [LinkTracker (Github/StackOverFlow) Java](https://github.com/yuuusha/java-course-2023-backend)
 - [Tinkoff course 1 sem Java](https://github.com/yuuusha/java-course-2023)
-- [Topic Modeling (Coursework)](https://github.com/yuuusha/topic-modeling)
 - [Music Catalog (C#)](https://github.com/yuuusha/MusicCatalog)
 - [CRM Flower Market (C#)](https://github.com/yuuusha/CRM-Flower-Market)
 - [Real Time System Tasks](https://github.com/yuuusha/rts-spring-2025)
 - [University Tasks | Университетские задания за весь период обучения](https://github.com/yuuusha/university_tasks)
+---
+#### Languages:
+- English - C1 Advanced
+- Russian - C2 Native Speaker
 ---
 #### Contacts:
 - Telegram: [@yuuusha0](https://t.me/yuuusha0)
