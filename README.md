@@ -45,6 +45,7 @@
 - [CRM Flower Market (C#)](https://github.com/yuuusha/CRM-Flower-Market)
 - [Real Time System Tasks](https://github.com/yuuusha/rts-spring-2025)
 - [University Tasks | Университетские задания за весь период обучения](https://github.com/yuuusha/university_tasks)
+- Web Interface for Flower Market Database ([Frontend](https://github.com/yuuusha/flower-market-database-interface-frontend) | [Backend](https://github.com/yuuusha/flower-market-database-interface-backend))
 ---
 #### Languages:
 - English - C1 Advanced
